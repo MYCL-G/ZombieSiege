@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "imgRes": "imgScene/1",
+        "name": "疯狂树林",
+        "sceneName": "GameScene1",
+        "tips": "即使是森林也被扭曲的意志所改变",
+        "gold":100,
+        "towerHp":100
+    },
+    {
+        "id": 2,
+        "imgRes": "imgScene/2",
+        "name": "极寒雪地",
+        "sceneName": "GameScene1",
+        "tips": "在寒冬中，尸骨爬出了墓地",
+        "gold":150,
+        "towerHp":150
+    },
+    {
+        "id": 3,
+        "imgRes": "imgScene/3",
+        "name": "熔岩旱土",
+        "sceneName": "GameScene1",
+        "tips": "在无休止的熔岩中，世界逐渐走向疯狂",
+        "gold":200,
+        "towerHp":200
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "res": "Enemy/z1",
+        "animator": "Animator/Enemy/Aggresive",
+        "atk": 8,
+        "moveSpeed": 10,
+        "roundSpeed": 100,
+        "hp": 30,
+        "atkOffset": 1.2
+    },
+    {
+        "id": 2,
+        "res": "Enemy/z2",
+        "animator": "Animator/Enemy/Broken",
+        "atk": 6,
+        "moveSpeed": 12,
+        "roundSpeed": 120,
+        "hp": 20,
+        "atkOffset": 1.5
+    },
+    {
+        "id": 3,
+        "res": "Enemy/z3",
+        "animator": "Animator/Enemy/Calm",
+        "atk": 5,
+        "moveSpeed": 8,
+        "roundSpeed": 80,
+        "hp": 15,
+        "atkOffset": 0.8
+    },
+    {
+        "id": 4,
+        "res": "Enemy/z4",
+        "animator": "Animator/Enemy/Calm",
+        "atk": 5,
+        "moveSpeed": 8,
+        "roundSpeed": 80,
+        "hp": 12,
+        "atkOffset": 0.7
+    },
+    {
+        "id": 5,
+        "res": "Enemy/z5",
+        "animator": "Animator/Enemy/Crawl",
+        "atk": 4,
+        "moveSpeed": 6,
+        "roundSpeed": 60,
+        "hp": 10,
+        "atkOffset": 1.2
+    },
+    {
+        "id": 6,
+        "res": "Enemy/z6",
+        "animator": "Animator/Enemy/Calm",
+        "atk": 5,
+        "moveSpeed": 8,
+        "roundSpeed": 80,
+        "hp": 8,
+        "atkOffset": 0.9
+    },
+    {
+        "id": 7,
+        "res": "Enemy/z7",
+        "animator": "Animator/Enemy/Calm",
+        "atk": 4,
+        "moveSpeed": 8,
+        "roundSpeed": 80,
+        "hp": 6,
+        "atkOffset": 0.8
+    },
+    {
+        "id": 8,
+        "res": "Enemy/z8",
+        "animator": "Animator/Enemy/Crawl",
+        "atk": 3,
+        "moveSpeed": 6,
+        "roundSpeed": 60,
+        "hp": 6,
+        "atkOffset": 0.6
+    }
+]

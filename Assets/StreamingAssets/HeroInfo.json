@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "res": "Hero/knifeHero",
+        "atk": 12,
+        "lockMoney": 0,
+        "hp": 150,
+        "tips": "匕首男",
+        "type": 1
+    },
+    {
+        "id": 2,
+        "res": "Hero/pistolHero",
+        "atk": 8,
+        "lockMoney": 70,
+        "hp": 60,
+        "tips": "燕双鹰",
+        "type": 2
+    },
+    {
+        "id": 3,
+        "res": "Hero/rifleHero",
+        "atk": 4,
+        "lockMoney": 120,
+        "hp": 100,
+        "tips": "大兵",
+        "type": 2
+    },
+    {
+        "id": 4,
+        "res": "Hero/sniperHero",
+        "atk": 15,
+        "lockMoney": 495,
+        "hp": 120,
+        "tips": "狙神",
+        "type": 2
+    },
+    {
+        "id": 5,
+        "res": "Hero/gatlingHero",
+        "atk": 3,
+        "lockMoney": 175,
+        "hp": 80,
+        "tips": "加特林菩萨",
+        "type": 2
+    },
+    {
+        "id": 6,
+        "res": "Hero/rpgHero",
+        "atk": 20,
+        "lockMoney": 300,
+        "hp": 100,
+        "tips": "火炮手",
+        "type": 2
+    }
+]
